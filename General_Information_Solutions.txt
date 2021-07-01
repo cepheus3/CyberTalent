@@ -1,0 +1,65 @@
+Challenge Name : Business Gathering
+
+Challenge Description: I am a huge cyber security conference that run every year in three places : San Francisco, Singapore and Lately AbuDhabi. Who am I ? No spaces in answering
+
+Answer : RSAconference
+
+-------------------------------------------------------------------------
+
+Challenge Name : Hackers Gathering
+
+Challenge Description: I am a cyber security conference that run in August every year in Las Vegas. I am the largest gathering for Hackers in the whole world. No Credit cards, no online booking , Only Cash allowed . Who am I ?
+
+Answer :  DEFCON
+
+-------------------------------------------------------------------------
+
+Challenge Name : Founder
+
+Challenge Description: I have founded two of the most famous Cyber Security conferences across the globe in Las Vegas, USA. I am not The Dark Knight. I am The DarK--------?
+
+Answer :  Tangent
+
+-------------------------------------------------------------------------
+
+Challenge Name : Back to History
+
+
+Challenge Description: am the First Computer Virus ever known . You will find me in your head . My name is ……..?
+
+Answer : brain
+
+-------------------------------------------------------------------------
+
+Challenge Name : Contribute
+
+Challenge Description:  I am an Organization that releases the Top 10 Vulnerabilities in Application Security . I am ……?
+
+Answer : OWASP
+
+-------------------------------------------------------------------------
+
+Challenge Name : Greeks
+
+Challenge Description: The art of hiding messages or information inside other image / text or data
+
+Answer : Steganography
+
+-------------------------------------------------------------------------
+
+Challenge Name : Robot
+
+Challenge Description: A group or network of machines that are controlled by an attacker to do a certain task
+
+Answer :  bot
+
+-------------------------------------------------------------------------
+
+Challenge Name :  
+
+Challenge Description:
+
+Answer :
+
+-------------------------------------------------------------------------
+
