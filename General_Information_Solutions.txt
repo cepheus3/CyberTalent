@@ -55,11 +55,11 @@ Answer :  bot
 
 -------------------------------------------------------------------------
 
-Challenge Name :  
+Challenge Name :  Pay Me
 
-Challenge Description:
+Challenge Description: I will lock your machine screen or files till you pay me. Who am i ?
 
-Answer :
+Answer : ransomware
 
 -------------------------------------------------------------------------
 
